@@ -3,7 +3,6 @@ int main()
 {
    int num1,num2,num3;
    
-   //Ask user to input any three integer numbers
    printf("\nEnter value of num1, num2 and num3:");
    
 
